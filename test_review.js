@@ -45,3 +45,5 @@ function epicBattle(wizard,enemy,power){
 	}
 }
 epicBattle(hero.wizard, monster, hero.power);
+
+//IM CLEAN
